@@ -2,7 +2,7 @@
 To ja Minecrafter#9481 z discorda
 
 ### Co robię?
-- Bota skyndalex<br>
+- Bota Xenith oraz FiveBit (soon™)<br>
 - Wrapper api dblisty w golangu
 - Bota meHomework (bot prywatny)
 - Inne różne projekty
