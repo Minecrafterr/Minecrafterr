@@ -4,7 +4,6 @@ To ja Minecrafter#9481 z discorda
 ### Co robię?
 - Bota Xenith oraz FiveBit (soon™)<br>
 - Wrapper api dblisty w golangu
-- Bota meHomework (bot prywatny)
 - Inne różne projekty
 
 psst te informacja o najbardziej używanych językach to kłamstwo bo wyłapuje tylko z golanga wrapper
