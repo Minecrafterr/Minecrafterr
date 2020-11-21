@@ -2,9 +2,14 @@
 To ja Minecrafter#9481 z discorda
 
 ### Co robię?
-- Bota Xenith oraz FiveBit (soon™)<br>
-- Wrapper api dblisty w golangu
+- Bota FiveBit<br>
+- Wrapper api dlisty w golangu
 - Inne różne projekty
+
+### Znajdź mnie
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20" height="20" style="margin-left:40px;"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width="20" height="20" style="margin-left:90px;"> <br>
+Minecrafter#9481 Minecrafter__PL
 
 psst te informacja o najbardziej używanych językach to kłamstwo bo wyłapuje tylko z golanga wrapper
 
