@@ -8,7 +8,7 @@ To ja Minecrafter#9481 z discorda
 
 ### Znajdź mnie
 
-tumialybyc <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20" height="20" style="margin-left:40px;"> spacjealeniewiemjakjetudac <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width="20" height="20" style="margin-left:90px;"> <br>
+tumialy<img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20" height="20" style="margin-left:40px;"> bycspacjeale <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width="20" height="20" style="margin-left:90px;"> niewiemjakjetudac <br>
 Minecrafter#9481 Minecrafter__PL
 
 psst te informacja o najbardziej używanych językach to kłamstwo bo wyłapuje tylko z golanga wrapper
